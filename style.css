@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    display: flex;
+    background: url(fbe664c209b6e55bdffc7eddb122316e.jpg) ;
+    background-size: cover ;
+    
+}
+
+main{
+    margin-top: 10px;
+    width: 500px;
+    height: 895px;
+    background: rgb(255, 254, 254);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    display: inline;
+    margin-left: 600px;
+    margin-right: 400px;
+    border-radius: 50px;
+    
+}
+
+.nome{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 49px;
+    white-space: 20px;
+    box-shadow: 500px;
+}
+
+button{
+    height: auto;
+    width: 125px;
+    padding: 10px;
+    box-shadow: 20px;
+    border-radius: 10px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+button:hover{
+    color: white;
+    background-color: rgb(148, 70, 172);
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
