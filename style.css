@@ -11,16 +11,17 @@ body{
 }
 
 main{
-    margin-top: 10px;
+    box-shadow: 1px 1px 25px black;
+    margin-top: 25px;
     width: 500px;
-    height: 895px;
+    height: 900px;
     background: rgb(255, 254, 254);
     justify-content: center;
     display: flex;
     align-items: center;
     display: inline;
-    margin-left: 600px;
-    margin-right: 400px;
+    margin-left: 705px;
+    margin-right: 650px;
     border-radius: 50px;
     
 }
