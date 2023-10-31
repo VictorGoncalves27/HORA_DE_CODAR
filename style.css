@@ -7,6 +7,8 @@ body{
     display: flex;
     background: url(fbe664c209b6e55bdffc7eddb122316e.jpg) ;
     background-size: cover ;
+    align-items: center;
+    justify-content: center ;
     
 }
 
@@ -20,8 +22,6 @@ main{
     display: flex;
     align-items: center;
     display: inline;
-    margin-left: 705px;
-    margin-right: 650px;
     border-radius: 50px;
     
 }
